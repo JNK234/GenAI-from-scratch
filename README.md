@@ -13,4 +13,6 @@ The curriculum follows a "learn by implementing" approach. Instead of just using
 * Learning to debug and optimize neural networks effectively
 * Building confidence in implementing research papers
 
-* Day 1: Linear Regression with Numpy
+Following are the topics covered till date:
+
+Day 1: Linear Regression with Numpy
